@@ -1,0 +1,29 @@
+main > section > h2{
+    text-decoration: underline;
+    text-align: center;
+}
+body{
+    background-color: yellow;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.Reset{
+    display:inline-table;
+}
+form{
+    text-align: center;
+}
+fieldset{
+    background-color:rgb(142, 113, 160);
+}
+legend{
+    font-size: larger;
+    color:red;
+    font-weight: bolder;
+}
+label{
+    color: white;
+}
